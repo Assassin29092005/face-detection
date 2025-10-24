@@ -1,0 +1,11 @@
+opencv-python
+mediapipe
+face_recognition
+numpy
+pandas
+streamlit
+torch
+torchvision
+ultralytics
+Pillow
+scikit-learn
