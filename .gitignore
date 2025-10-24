@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+.env/
+*.pyc
+__pycache__/
+
+# Build and cache files
+*.pyo
+*.pyd
+*.so
+*.dll
+*.exe
+*.log
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+
+# Data and large files
+*.zip
+*.tar
+*.gz
+*.h5
+*.mp4
+*.avi
+*.mov
+
+# Python package folders
+dist/
+build/
+*.egg-info/
